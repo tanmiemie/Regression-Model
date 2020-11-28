@@ -1,6 +1,7 @@
 # Regression-Model
 Dataset:Bike Sharing Dataset Data Set
 Source:https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset
+
 Dependent variable: cnt (count of total rental bikes including both casual and registered)
 Independent variable:
 - instant (record index)
